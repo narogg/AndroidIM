@@ -1,5 +1,4 @@
-AndroidIM
-=========
+chatEm
 
 ##Android Instant Messaging Application
 
