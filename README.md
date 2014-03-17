@@ -1,15 +1,5 @@
-chatEm
-
-##Android Instant Messaging Application
-
-###VIL - Very Important Link's
-
-[V-City](http://www.v-city.at)<br/>
-[Demo-App PlayStore](https://play.google.com/store/apps/details?id=at.vcity.androidim)<br/>
-[Installation-Tutorial](https://github.com/Pirngruber/AndroidIM/wiki/Installation-Tutorial)
-
-
-
+##chatEm - playing with chat app for Android.
+forked from https://github.com/Pirngruber/AndroidIM
 
 ###Features
 
@@ -43,7 +33,3 @@ chatEm
         
     Then run your application in Eclipse with ADT plugin.
     it can be learned how to install Android SDK and ADT plugin.
-
-###Support:
-
-    Support now is given by Pirngruber Dominik (d.pirngruber@gmail.com)
