@@ -1,4 +1,4 @@
-AndroidIM
+chatEm
 =========
 Forkao s https://github.com/Pirngruber/AndroidIM
 ##Android Instant Messaging Application
