@@ -32,4 +32,3 @@ forked from https://github.com/Pirngruber/AndroidIM
         for our example it is http://192.168.7.5/android-im/ (don't use localhost)
         
     Then run your application in Eclipse with ADT plugin.
-    it can be learned how to install Android SDK and ADT plugin.
